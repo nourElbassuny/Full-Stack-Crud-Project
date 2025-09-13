@@ -4,7 +4,9 @@
 
 
 ## 🎥 Demo Video
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_ID](https://www.youtube.com/watch?v=tG2C054OHDE))
+
+[![Watch the video](https://img.youtube.com/vi/tG2C054OHDE/0.jpg)](https://www.youtube.com/watch?v=tG2C054OHDE)
+
 
 
 
