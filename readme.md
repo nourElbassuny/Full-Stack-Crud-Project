@@ -1,5 +1,5 @@
 #  Full Stack CRUD Application (Spring Boot + Angular)
-[![Watch the video](https://img.shields.io/badge/▶️%20Click%20to%20Watch-red?style=for-the-badge)](https://github.com/nourElbassuny/Full-Stack-Crud-Project/blob/main/Demo_videos.mp4)
+[[![Watch the video](https://img.shields.io/badge/▶️%20Click%20to%20Watch-red?style=for-the-badge)](https://github.com/nourElbassuny/Full-Stack-Crud-Project/blob/main/Demo_videos.mp4)](https://github.com/nourElbassuny/Full-Stack-Crud-Project.git)
 
 
 
