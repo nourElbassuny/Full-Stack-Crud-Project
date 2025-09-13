@@ -1,9 +1,10 @@
 #  Full Stack CRUD Application (Spring Boot + Angular)
-## 🎥 Demo Preview
-![Demo Preview](Demo_videos.gif)
 
 
 
+
+## 🎥 Demo Video
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_ID](https://www.youtube.com/watch?v=tG2C054OHDE))
 
 
 
