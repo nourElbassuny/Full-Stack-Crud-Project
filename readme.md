@@ -1,4 +1,6 @@
 #  Full Stack CRUD Application (Spring Boot + Angular)
+## 🎥 Demo Video
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://github.com/nourElbassuny/Full-Stack-Crud-Project/blob/main/demo.mp4)
 
 
 
